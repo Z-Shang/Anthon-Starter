@@ -1,0 +1,11 @@
+.\startup.bat
+.\dd.exe
+.\LICENSE
+.\main.exe
+.\sha256sum.exe
+.\wget.exe
+.\libeay32.dll
+.\libiconv2.dll
+.\libintl3.dll
+.\libssl32.dll
+.\g2ldr
